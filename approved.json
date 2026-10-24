@@ -1,2 +1,252 @@
-[{"name":"OneEye Crimson","batch":6,"file":"img/B6_Cyborg_OneEye_Crimson.png"},
- {"name":"OneEye Hooded Violet","batch":6,"file":"img/B6_Cyborg_OneEye_Violet.png"}]
+[
+ {
+  "faction": "Cyborg",
+  "items": [
+   {
+    "name": "Cyborg OneEye Crimson",
+    "id": "B6",
+    "file": "img/Cyborg/B6_Cyborg_OneEye_Crimson.png"
+   },
+   {
+    "name": "Cyborg OneEye Violet",
+    "id": "B6",
+    "file": "img/Cyborg/B6_Cyborg_OneEye_Violet.png"
+   }
+  ]
+ },
+ {
+  "faction": "Agent",
+  "items": [
+   {
+    "name": "Sphere Bot Neon Green",
+    "id": "A01",
+    "file": "img/Agent/A01_Sphere_Bot_Neon_Green.jpg"
+   },
+   {
+    "name": "Scout Bot Neon Warden",
+    "id": "A02",
+    "file": "img/Agent/A02_Scout_Bot_Neon_Warden.jpg"
+   },
+   {
+    "name": "Crimson Visor Android",
+    "id": "A03",
+    "file": "img/Agent/A03_Crimson_Visor_Android.jpg"
+   },
+   {
+    "name": "White Sphere Neon Green",
+    "id": "A04",
+    "file": "img/Agent/A04_White_Sphere_Neon_Green.jpg"
+   },
+   {
+    "name": "Beak Helm Cyan Gold",
+    "id": "A05",
+    "file": "img/Agent/A05_Beak_Helm_Cyan_Gold.jpg"
+   },
+   {
+    "name": "Rune Visor Cyan",
+    "id": "A06",
+    "file": "img/Agent/A06_Rune_Visor_Cyan.jpg"
+   },
+   {
+    "name": "White Purple Bot",
+    "id": "A07",
+    "file": "img/Agent/A07_White_Purple_Bot.jpg"
+   },
+   {
+    "name": "Gunmetal Orange Bot",
+    "id": "A08",
+    "file": "img/Agent/A08_Gunmetal_Orange_Bot.jpg"
+   },
+   {
+    "name": "Silver IceBlue Bot",
+    "id": "A09",
+    "file": "img/Agent/A09_Silver_IceBlue_Bot.jpg"
+   },
+   {
+    "name": "Charcoal Green Bot",
+    "id": "A10",
+    "file": "img/Agent/A10_Charcoal_Green_Bot.jpg"
+   },
+   {
+    "name": "White Magenta Bot",
+    "id": "A11",
+    "file": "img/Agent/A11_White_Magenta_Bot.jpg"
+   },
+   {
+    "name": "Black Gold Bot",
+    "id": "A12",
+    "file": "img/Agent/A12_Black_Gold_Bot.jpg"
+   }
+  ]
+ },
+ {
+  "faction": "Builder",
+  "items": [
+   {
+    "name": "Green Visor",
+    "id": "B01",
+    "file": "img/Builder/B01_Green_Visor.jpg"
+   },
+   {
+    "name": "Magenta Visor",
+    "id": "B02",
+    "file": "img/Builder/B02_Magenta_Visor.jpg"
+   },
+   {
+    "name": "IceBlue Visor",
+    "id": "B03",
+    "file": "img/Builder/B03_IceBlue_Visor.jpg"
+   },
+   {
+    "name": "Gold Visor",
+    "id": "B04",
+    "file": "img/Builder/B04_Gold_Visor.jpg"
+   },
+   {
+    "name": "Cyan Visor",
+    "id": "B05",
+    "file": "img/Builder/B05_Cyan_Visor.jpg"
+   }
+  ]
+ },
+ {
+  "faction": "Explorer",
+  "items": [
+   {
+    "name": "Purple Green",
+    "id": "E01",
+    "file": "img/Explorer/E01_Purple_Green.jpg"
+   },
+   {
+    "name": "Cyan Azure",
+    "id": "E02",
+    "file": "img/Explorer/E02_Cyan_Azure.jpg"
+   },
+   {
+    "name": "Orange Amber",
+    "id": "E03",
+    "file": "img/Explorer/E03_Orange_Amber.jpg"
+   },
+   {
+    "name": "Magenta Halo",
+    "id": "E04",
+    "file": "img/Explorer/E04_Magenta_Halo.jpg"
+   },
+   {
+    "name": "White Halo",
+    "id": "E05",
+    "file": "img/Explorer/E05_White_Halo.jpg"
+   }
+  ]
+ },
+ {
+  "faction": "Rogue",
+  "items": [
+   {
+    "name": "Green Cracks",
+    "id": "R01",
+    "file": "img/Rogue/R01_Green_Cracks.jpg"
+   },
+   {
+    "name": "Magenta Cracks",
+    "id": "R02",
+    "file": "img/Rogue/R02_Magenta_Cracks.jpg"
+   },
+   {
+    "name": "IceBlue Cracks",
+    "id": "R03",
+    "file": "img/Rogue/R03_IceBlue_Cracks.jpg"
+   },
+   {
+    "name": "Orange Cracks",
+    "id": "R04",
+    "file": "img/Rogue/R04_Orange_Cracks.jpg"
+   },
+   {
+    "name": "Purple Cracks",
+    "id": "R05",
+    "file": "img/Rogue/R05_Purple_Cracks.jpg"
+   }
+  ]
+ },
+ {
+  "faction": "Trader",
+  "items": [
+   {
+    "name": "Cat Cyan Eyes",
+    "id": "T01",
+    "file": "img/Trader/T01_Cat_Cyan_Eyes.jpg"
+   },
+   {
+    "name": "Owl Gold Eyes",
+    "id": "T02",
+    "file": "img/Trader/T02_Owl_Gold_Eyes.jpg"
+   },
+   {
+    "name": "Panda Red Eyes",
+    "id": "T03",
+    "file": "img/Trader/T03_Panda_Red_Eyes.jpg"
+   },
+   {
+    "name": "Wolf Orange Eyes",
+    "id": "T04",
+    "file": "img/Trader/T04_Wolf_Orange_Eyes.jpg"
+   },
+   {
+    "name": "Fox Magenta Eyes",
+    "id": "T05",
+    "file": "img/Trader/T05_Fox_Magenta_Eyes.jpg"
+   },
+   {
+    "name": "Raven IceBlue Eyes",
+    "id": "T06",
+    "file": "img/Trader/T06_Raven_IceBlue_Eyes.jpg"
+   },
+   {
+    "name": "Tiger Gold Eyes",
+    "id": "T07",
+    "file": "img/Trader/T07_Tiger_Gold_Eyes.jpg"
+   },
+   {
+    "name": "Rabbit Cyan Eyes",
+    "id": "T08",
+    "file": "img/Trader/T08_Rabbit_Cyan_Eyes.jpg"
+   },
+   {
+    "name": "Dragonkin Purple Eyes",
+    "id": "T09",
+    "file": "img/Trader/T09_Dragonkin_Purple_Eyes.jpg"
+   }
+  ]
+ },
+ {
+  "faction": "Validator",
+  "items": [
+   {
+    "name": "Green Halo",
+    "id": "V01",
+    "file": "img/Validator/V01_Green_Halo.jpg"
+   },
+   {
+    "name": "Cyan Halo",
+    "id": "V02",
+    "file": "img/Validator/V02_Cyan_Halo.jpg"
+   },
+   {
+    "name": "Purple Halo",
+    "id": "V03",
+    "file": "img/Validator/V03_Purple_Halo.jpg"
+   },
+   {
+    "name": "Magenta Halo",
+    "id": "V04",
+    "file": "img/Validator/V04_Magenta_Halo.jpg"
+   },
+   {
+    "name": "IceBlue Halo",
+    "id": "V05",
+    "file": "img/Validator/V05_IceBlue_Halo.jpg"
+   }
+  ]
+ }
+]

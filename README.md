@@ -1,2 +1,2 @@
-# Add approvals
-Copy PNG into img/, add an entry to approved.json, then git add/commit/push.
+# SHARDBORN approved gallery
+Add approvals: put image in img/<Faction>/, run `python3 build.py`, commit & push.
